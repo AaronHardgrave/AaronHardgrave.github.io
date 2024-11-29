@@ -13,9 +13,9 @@ Hello! I'm Aaron Hardgrave, a PhD Candidate in Biomedical Sciences at ETSU's Qui
 - **Vertebrae Shape - Old World vs New World Fruit Bats Climbing Mechanics:** This project is led by a graduate researcher, Jessica Upham, and Dr. Richard Carter. I'm assisting in the 3D landmarking protocols and downstream analysis.
 
 ## Techniques
--**micro-Computerized Tomography (µCT):** Bruker1273 Skycan, Dragonfly, 3D Slicer
--**3D Geometric Morphometrics:** SlicerMorph, Geomorph, RRPP
--**Finite Element Analysis:** ANSYS 
+- **micro-Computerized Tomography (µCT):** Bruker1273 Skycan, Dragonfly, 3D Slicer
+- **3D Geometric Morphometrics:** SlicerMorph, Geomorph, RRPP
+- **Finite Element Analysis:** ANSYS 
 
 
 ## Interests
@@ -23,11 +23,11 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 
 ## Publications
 ### Journal Articles
-- -**Terrestriality as a Canalizer of Vertebrae Shape in the Eastern Newt:** Authors: Aaron Hardgrave, Richard Carter, (Submitted) 
-- **Monkeying around with bat scapulae: Old World fruit bats show vertical climbing/suspensory adaptations of primates lacking in New World fruit bats:**: Authors: Rick Scott, Richard Adams, Aaron Hardgrave, Journal of Zoology (In Review)
+- -**Terrestriality as a Canalizer of Vertebrae Shape in the Eastern Newt:** Authors: Aaron Hardgrave, Richard Carter (Submitted) 
+- **Monkeying around with bat scapulae: Old World fruit bats show vertical climbing/suspensory adaptations of primates lacking in New World fruit bats:** Authors: Rick Scott, Richard Adams, Aaron Hardgrave, Journal of Zoology (In Review)
 
 
-### Conference Papers
+### Presentations
 - **Title of Paper 1**: Author(s), Conference Name, Year, DOI/Link.
 - **Title of Paper 2**: Author(s), Conference Name, Year, DOI/Link.
 
