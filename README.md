@@ -46,5 +46,3 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 Feel free to reach out to me at Hardgrave@etsu.edu.
 
 ---
-
-Thank you for visiting my personal website! I hope you find my work interesting and insightful.
