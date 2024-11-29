@@ -23,13 +23,22 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 
 ## Publications
 ### Journal Articles
-- -**Terrestriality as a Canalizer of Vertebrae Shape in the Eastern Newt:** Authors: Aaron Hardgrave, Richard Carter (Submitted) 
+- **Terrestriality as a Canalizer of Vertebrae Shape in the Eastern Newt:** Authors: Aaron Hardgrave, Richard Carter (Submitted) 
 - **Monkeying around with bat scapulae: Old World fruit bats show vertical climbing/suspensory adaptations of primates lacking in New World fruit bats:** Authors: Rick Scott, Richard Adams, Aaron Hardgrave, Journal of Zoology (In Review)
 
 
 ### Presentations
-- **Title of Paper 1**: Author(s), Conference Name, Year, DOI/Link.
-- **Title of Paper 2**: Author(s), Conference Name, Year, DOI/Link.
+- **The Society for Integrative and Comparative Biology (SICB)**
+- - Seattle (2024)
+  - Atlanta (2025)
+- **The Society for Integrative and Comparative Biology Southeast Regional Conference (DVM/DCB) (SICB)**
+- - Blacksburg, VA (2023)
+  - Harrisonburg, VA (2024)
+- **Tennessee Herpetology Conference**
+- - Chattanooga, TN (2022)
+  - Bristol, TN (2024)
+- **Appalachian Student Research Forum - East Tennessee State University**
+- - Johnson City, TN (2022-2024)
 
 ### Other Publications
 - **Title of Publication 1**: Author(s), Publication Name, Year, DOI/Link.
