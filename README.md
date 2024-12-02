@@ -1,5 +1,3 @@
-# Welcome to My Website
-
 ## About Me
 Hello! I'm Aaron Hardgrave, a PhD Candidate in Biomedical Sciences at ETSU's Quillen College of Medicine in Johnson City, TN. I am passionate about Biology and further understanding the functional capabilities of the organisms around us. More specifically, I'm interested in comparative anatomy and morphology and using these techniques to describe the evolution of animal tissues (including us humans). 
 
@@ -27,7 +25,7 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 - **Monkeying around with bat scapulae: Old World fruit bats show vertical climbing/suspensory adaptations of primates lacking in New World fruit bats:** Authors: Rick Scott, Richard Adams, Aaron Hardgrave, Journal of Zoology (In Review)
 
 
-### Presentations
+### Research Presentations
 - **The Society for Integrative and Comparative Biology (SICB)**
   - Seattle (2024)
   - Atlanta (2025)
@@ -40,6 +38,7 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 - **Appalachian Student Research Forum - East Tennessee State University**
   - Johnson City, TN (2022-2024)
 
+## Teaching
 
 
 ## Contact
