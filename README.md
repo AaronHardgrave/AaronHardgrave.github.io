@@ -39,8 +39,23 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
   - Johnson City, TN (2022-2024)
 
 ## Teaching
+-**Graduate Teaching Assistant**
+  -**Lectures**
+    - Biological Sciences 2 for Majors (Spring 2025)
+    - Guest Lectures:
+      - Comparative Anatomy - Axial Skeleton of Vertebrates
+      - Department of Biological Sciences - Seminar Series
+      - Johnson City Parks and Recreation - Herpetology Series
+  -**Lab Courses**
+    - Biology I for Non-Majors
+    - Biochemistry of Macromolecules
+    - Biochemistry of Metabolism
+    - Comparative Aantomy
 
-
+-**Undergraduate Teaching Assistant**
+  -**Lab Courses**
+    - Comparative Anatomy
+    
 ## Contact
 Feel free to reach out to me at Hardgrave@etsu.edu.
 
