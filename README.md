@@ -21,9 +21,8 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 
 ## Publications
 ### Journal Articles
-- **Terrestriality as a Canalizer of Vertebrae Shape in the Eastern Newt:** Authors: Aaron Hardgrave, Richard Carter (Submitted) 
 - **Monkeying around with bat scapulae: Old World fruit bats show vertical climbing/suspensory adaptations of primates lacking in New World fruit bats:** Authors: Rick Scott, Richard Adams, Aaron Hardgrave, Journal of Zoology (In Review)
-
+- **More coming soon!**
 
 ### Research Presentations
 - **The Society for Integrative and Comparative Biology (SICB)**
