@@ -17,7 +17,7 @@ Hello! I'm Aaron Hardgrave, a PhD Candidate in Biomedical Sciences at ETSU's Qui
 
 
 ## Interests
-My interests include hiking, fly fishing, and scuba diving. In my free time, I enjoy working out, whether it be yoga or HIIT classes.
+My interests include hiking, fly fishing, and scuba diving.
 
 ## Publications
 ### Journal Articles
@@ -40,6 +40,7 @@ My interests include hiking, fly fishing, and scuba diving. In my free time, I e
 ## Teaching
 - **Graduate Teaching Assistant**
   - **Lectures**
+    - Biological Sciences 1 for Majors (Summer 2025)
     - Biological Sciences 2 for Majors (Spring 2025)
     - Guest Lectures:
       - Comparative Anatomy - Axial Skeleton of Vertebrates
