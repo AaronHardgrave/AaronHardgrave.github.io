@@ -1,9 +1,11 @@
 ---
-layout: page
-title: Home
+layout: default
+title: Aaron J. Hardgrave
 ---
 
-<img src="images/headshot.PNG" alt="Aaron J. Hardgrave" width="250" style="border-radius: 8px;">
+<div style="text-align: center; margin-bottom: 30px;">
+  <img src="images/headshot.PNG" alt="Aaron J. Hardgrave" width="250" style="border-radius: 50%; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
 
 ## About Me
 
