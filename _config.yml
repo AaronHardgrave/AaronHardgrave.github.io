@@ -1,0 +1,46 @@
+# Site settings
+title: Aaron J. Hardgrave
+tagline: 'PhD Candidate in Biomedical Sciences'
+description: 'Functional morphology researcher and anatomy educator specializing in comparative anatomy, µCT imaging, and 3D geometric morphometrics'
+url: https://aaronhardgrave.github.io
+baseurl: ''
+
+# About/contact
+author:
+  name: Aaron J. Hardgrave
+  url: https://aaronhardgrave.github.io
+  email: Hardgrave@etsu.edu
+
+# Permalinks
+permalink: pretty
+
+# Theme settings
+theme: jekyll-theme-lanyon
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Research & Publications
+    url: /research
+  - title: Teaching
+    url: /teaching
+  - title: CV & Contact
+    url: /cv
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
