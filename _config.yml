@@ -15,7 +15,7 @@ author:
 permalink: pretty
 
 # Theme settings
-theme: jekyll-theme-lanyon
+remote_theme: poole/lanyon
 
 # Navigation
 navigation:
@@ -36,6 +36,7 @@ kramdown:
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-gist
 
