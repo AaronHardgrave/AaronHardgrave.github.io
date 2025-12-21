@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: CV & Contact
 ---
 
 ## Curriculum Vitae
 
-📄 **[Download CV (PDF)](files/Hardgrave_Aaron_CV_Teaching_2025.pdf)**
+📄 **[Download CV (PDF)](files/Hardgrave_Aaron_CV_2025.pdf)**
 
 *Last updated: December 2025*
 

@@ -2,8 +2,10 @@
 title: Aaron J. Hardgrave
 tagline: 'PhD Candidate in Biomedical Sciences'
 description: 'Functional morphology researcher and anatomy educator specializing in comparative anatomy, µCT imaging, and 3D geometric morphometrics'
+logo: /images/headshot.PNG
 url: https://aaronhardgrave.github.io
 baseurl: ''
+show_downloads: false
 
 # About/contact
 author:
@@ -15,7 +17,7 @@ author:
 permalink: pretty
 
 # Theme settings
-remote_theme: poole/lanyon
+remote_theme: pages-themes/minimal@v0.2.0
 
 # Navigation
 navigation:
