@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![Aaron J. Hardgrave](images/headshot.PNG)
+<img src="images/headshot.PNG" alt="Aaron J. Hardgrave" width="250" style="border-radius: 8px;">
 
 ## About Me
 
