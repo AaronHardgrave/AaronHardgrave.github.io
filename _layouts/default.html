@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.url == "/" %}{{ site.title }} – {{ site.tagline }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav-container">
+      <a href="{{ '/' | relative_url }}" class="nav-brand">
+        <span class="nav-name">{{ site.title }}</span>
+        <span class="nav-tagline">{{ site.tagline }}</span>
+      </a>
+      <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation">
+      <label for="nav-toggle" class="nav-toggle-label" aria-hidden="true">
+        <span></span>
+      </label>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+        <a href="{{ '/research/' | relative_url }}" {% if page.url contains "research" %}class="active"{% endif %}>Research</a>
+        <a href="{{ '/teaching/' | relative_url }}" {% if page.url contains "teaching" %}class="active"{% endif %}>Teaching</a>
+        <a href="{{ '/cv/' | relative_url }}" {% if page.url contains "cv" %}class="active"{% endif %}>CV & Contact</a>
+      </div>
+    </nav>
+  </header>
+
+  <main class="site-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>&copy; {{ "now" | date: "%Y" }} {{ site.author.name }}</p>
+      <p class="footer-sub">{{ site.tagline }} &middot; <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+    </div>
+  </footer>
+</body>
+</html>
