@@ -1,33 +1,81 @@
 ---
-layout: default
+layout: page
 title: CV & Contact
 ---
 
 ## Curriculum Vitae
 
-📄 **[Download CV (PDF)](files/Hardgrave_Aaron_CV_2025.pdf)**
-
-*Last updated: December 2025*
+<p>
+  <a href="files/Hardgrave_Aaron_CV_2025.pdf" class="btn btn-primary btn-sm" style="color: var(--primary); background: var(--primary-bg);">Download CV (PDF)</a>
+  <br><small style="color: var(--text-light);">Last updated: December 2025</small>
+</p>
 
 ---
 
 ## Contact Information
 
-**Aaron J. Hardgrave**  
-PhD Candidate, Biomedical Sciences  
-East Tennessee State University – Quillen College of Medicine  
-Johnson City, TN 37604
-
-📧 Email: [Hardgrave@etsu.edu](mailto:Hardgrave@etsu.edu)  
-📱 Phone: 901-275-7567
+<div class="contact-row">
+  <div class="contact-card">
+    <h3>Address</h3>
+    <p><strong>Aaron J. Hardgrave</strong></p>
+    <p>PhD Candidate, Biomedical Sciences</p>
+    <p>East Tennessee State University<br>Quillen College of Medicine<br>Johnson City, TN 37604</p>
+  </div>
+  <div class="contact-card">
+    <h3>Get in Touch</h3>
+    <p><strong>Email:</strong> <a href="mailto:Hardgrave@etsu.edu">Hardgrave@etsu.edu</a></p>
+    <p><strong>Phone:</strong> 901-275-7567</p>
+  </div>
+</div>
 
 ---
 
 ## Professional Profiles
 
-- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AElLoL12bo-Ri800pDop3XilEghwzzQePXCc9cwZlBKtb_AA5kyoiQYomrFfL1Mp7b_w-XfCoCxl154rcropgNvNcjd0aAh2t7FsUhrV1Ro&user=rf69g3UAAAAJ)
-- 🔬 [ResearchGate](https://www.researchgate.net/profile/Aaron-Hardgrave?ev=hdr_xprf)
-- 🆔 [ORCID: 0009-0005-0178-1173](https://orcid.org/0009-0005-0178-1173)
+<ul class="profile-links">
+  <li><a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AElLoL12bo-Ri800pDop3XilEghwzzQePXCc9cwZlBKtb_AA5kyoiQYomrFfL1Mp7b_w-XfCoCxl154rcropgNvNcjd0aAh2t7FsUhrV1Ro&user=rf69g3UAAAAJ">Google Scholar</a></li>
+  <li><a href="https://www.researchgate.net/profile/Aaron-Hardgrave?ev=hdr_xprf">ResearchGate</a></li>
+  <li><a href="https://orcid.org/0009-0005-0178-1173">ORCID: 0009-0005-0178-1173</a></li>
+</ul>
+
+---
+
+## Technical Skills
+
+<div class="skills-grid">
+  <div class="skill-card">
+    <h4>Advanced Imaging</h4>
+    <ul>
+      <li>Micro-CT (µCT) scanning</li>
+      <li>Image segmentation &amp; 3D reconstruction</li>
+      <li>DiceCT contrast-enhanced CT</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <h4>Morphometric Analysis</h4>
+    <ul>
+      <li>3D geometric morphometrics</li>
+      <li>Statistical shape analysis</li>
+      <li>Landmark-based morphometrics</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <h4>Software</h4>
+    <ul>
+      <li>Dragonfly, 3D Slicer, SlicerMorph</li>
+      <li>R/RStudio (Geomorph, RRPP)</li>
+      <li>ANSYS (SpaceClaim, Mechanical)</li>
+    </ul>
+  </div>
+  <div class="skill-card">
+    <h4>Teaching &amp; Curriculum</h4>
+    <ul>
+      <li>Curriculum development &amp; assessment</li>
+      <li>Team-based learning facilitation</li>
+      <li>Technology integration in anatomy ed.</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -38,48 +86,10 @@ Johnson City, TN 37604
 
 ---
 
-## Courses Prepared to Teach
-
-- Gross Human Anatomy (lecture and laboratory)
-- Comparative Anatomy (lecture and laboratory)
-- Embryology / Developmental Biology
-- Neuroanatomy
-- Functional Anatomy
-- Vertebrate Morphology
-- General Biology (majors and non-majors)
-- Biochemistry (lecture and laboratory)
-- Anatomy & Physiology
-
----
-
-## Technical Skills
-
-**Advanced Imaging**
-- Micro-computerized tomography (µCT) scanning
-- Image segmentation and 3D reconstruction
-- DiceCT (diffusible iodine-based contrast-enhanced computed tomography)
-
-**Morphometric Analysis**
-- 3D geometric morphometrics
-- Statistical shape analysis
-- Landmark-based morphometrics
-
-**Software Proficiency**
-- Dragonfly, 3DSlicer, SlicerMorph
-- R/RStudio (Geomorph, RRPP packages)
-- ANSYS (SpaceClaim, Mechanical)
-
-**Teaching & Curriculum**
-- Curriculum development and assessment design
-- Team-based learning facilitation
-- Technology integration in anatomy education
-
----
-
 ## Availability
 
-Expected graduation: **Spring 2026**
-
-I am currently seeking faculty positions in anatomy at medical schools, veterinary schools, health sciences programs, and biology departments. I am also open to postdoctoral positions that would expand my technical expertise in biomechanics, kinematics, anatomy education, or clinical research methods.
-
-For inquiries about teaching, research collaborations, or speaking engagements, please contact me at [Hardgrave@etsu.edu](mailto:Hardgrave@etsu.edu).
+<div class="availability">
+  <h3>Seeking Positions — Spring 2026</h3>
+  <p>I am currently seeking faculty positions in anatomy at medical schools, veterinary schools, health sciences programs, and biology departments. I am also open to postdoctoral positions that would expand my technical expertise in biomechanics, kinematics, anatomy education, or clinical research methods.</p>
+  <p>For inquiries about teaching, research collaborations, or speaking engagements, please contact me at <a href="mailto:Hardgrave@etsu.edu">Hardgrave@etsu.edu</a>.</p>
+</div>
