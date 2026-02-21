@@ -24,7 +24,6 @@ title: CV & Contact
   <div class="contact-card">
     <h3>Get in Touch</h3>
     <p><strong>Email:</strong> <a href="mailto:Hardgrave@etsu.edu">Hardgrave@etsu.edu</a></p>
-    <p><strong>Phone:</strong> 901-275-7567</p>
   </div>
 </div>
 

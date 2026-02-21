@@ -8,7 +8,7 @@ title: Research
 ### Functional Morphology of the Eastern Newt
 
 <div class="figure">
-  <img src="images/overview.jpg" alt="Eastern newt volume renderings showing osteological elements and diceCT soft tissue capture">
+  <img src="/images/overview.jpg" alt="Eastern newt volume renderings showing osteological elements and diceCT soft tissue capture">
   <p class="caption">Eastern newt volume renderings: osteological elements (left) and diceCT soft tissue capture (right)</p>
 </div>
 
@@ -69,7 +69,8 @@ The ultimate goal is to build computational models that can predict how skeletal
 
 <div class="media-block">
   <video controls>
-    <source src="images/pleurobot_walking.mov" type="video/mp4">
+    <source src="/images/pleurobot_walking.mov" type="video/quicktime">
+    <source src="/images/pleurobot_walking.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p class="caption">Moving x-ray visualization of salamander walking demonstrates the biomechanical principles underlying my research on newt morphology. (Pleurobot — Karakasiliotis et al. 2016, <a href="https://www.epfl.ch/labs/biorob/research/amphibious/pleurobot/">EPFL Biorob</a>)</p>
@@ -79,7 +80,7 @@ The ultimate goal is to build computational models that can predict how skeletal
 
 <div class="media-block">
   <video controls>
-    <source src="images/Hindlimb_dice_animation.mp4" type="video/mp4">
+    <source src="/images/Hindlimb_dice_animation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
   <p class="caption">Slice-by-slice visualization of eastern newt hindlimb musculature captured using diceCT imaging, demonstrating the detailed anatomical data used in my morphometric analyses.</p>
