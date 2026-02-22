@@ -6,8 +6,9 @@ title: CV & Contact
 ## Curriculum Vitae
 
 <p>
-  <a href="files/Hardgrave_Aaron_CV_2025.pdf" class="btn btn-primary btn-sm" style="color: var(--primary); background: var(--primary-bg);">Download CV (PDF)</a>
-  <br><small style="color: var(--text-light);">Last updated: December 2025</small>
+  <a href="files/Hardgrave_Aaron_CV_Research_2026.pdf" class="btn btn-primary btn-sm" style="color: var(--primary); background: var(--primary-bg);">Download CV (PDF)</a>
+  <a href="files/Hardgrave_TeachingPhilosophy_Feb2026.pdf" class="btn btn-primary btn-sm" style="color: var(--primary); background: var(--primary-bg);">Download Teaching Philosophy (PDF)</a>
+  <br><small style="color: var(--text-light);">Last updated: February 2026</small>
 </p>
 
 ---
@@ -82,6 +83,7 @@ title: CV & Contact
 
 - **Society for Integrative and Comparative Biology (SICB)**
 - **American Association for Anatomy (AAA)**
+- **Human Anatomy and Physiology Society (HAPS)**
 
 ---
 

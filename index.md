@@ -13,7 +13,7 @@ title: Home
       <p class="status">Expected graduation: Spring 2026</p>
       <div class="hero-actions">
         <a href="mailto:Hardgrave@etsu.edu" class="btn btn-primary">Email Me</a>
-        <a href="files/Hardgrave_Aaron_CV_2025.pdf" class="btn btn-outline">Download CV</a>
+        <a href="files/Hardgrave_Aaron_CV_Research_2026.pdf" class="btn btn-outline">Download CV</a>
       </div>
     </div>
   </div>
