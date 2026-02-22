@@ -10,7 +10,7 @@ My teaching philosophy centers on **functional understanding over memorization**
 I have extensive experience teaching anatomy across diverse student populations — from first-year medical students to undergraduates to advanced high school students — and I tailor my instructional approach to each audience's professional and academic goals.
 
 <p>
-  <a href="files/Hardgrave_TeachingPhilosophy_Feb2026.pdf" class="btn btn-primary btn-sm" style="color: var(--primary); background: var(--primary-bg);">Download Teaching Philosophy (PDF)</a>
+  <a href="/files/Hardgrave_TeachingPhilosophy_Feb2026.pdf" class="btn btn-primary btn-sm" style="color: var(--primary); background: var(--primary-bg);">Download Teaching Philosophy (PDF)</a>
 </p>
 
 ---
